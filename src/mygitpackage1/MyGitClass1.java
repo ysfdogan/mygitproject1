@@ -8,7 +8,9 @@ public class MyGitClass1 {
 		System.out.println("uzak sunucudaki kodum");//Github koddaki yeni kodum
 		System.out.println("yepyeni bir kod");
 		System.out.println("git pull'u deneme");
-	
+
+		System.out.println("cakisma olacak mi GITHUB");
+
 
 	}
 
