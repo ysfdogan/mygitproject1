@@ -9,7 +9,7 @@ public class MyGitClass1 {
 		System.out.println("yepyeni bir kod");
 		System.out.println("git pull'u deneme");
 
-		System.out.println("cakisma olacak mi GITHUB");
+		System.out.println("11. satir cakisma olacak mi GITHUB");
 
 
 	}
