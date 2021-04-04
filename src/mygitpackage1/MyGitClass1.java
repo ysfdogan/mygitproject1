@@ -6,6 +6,7 @@ public class MyGitClass1 {
 		
 		System.out.println("Ilk deneyim olacak insaallah");
 		System.out.println("uzak sunucudaki kodum");//Github koddaki yeni kodum
+		System.out.println("yepyeni bir kod");
 
 	}
 
