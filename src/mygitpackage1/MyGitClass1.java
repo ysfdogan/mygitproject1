@@ -12,6 +12,8 @@ public class MyGitClass1 {
 		System.out.println("11. satir cakisma olacak mi ECLIPSE");
 		System.out.println("11. satir cakisma olacak mi GITHUB");
 		System.out.println("Branch degisitirme");
+		System.out.println("yusuf branch'inde yaptigim kod : satir 15");
+		System.out.println("yusuf branch'inde yaptigim kod : satir 16");
 
 	}
 
